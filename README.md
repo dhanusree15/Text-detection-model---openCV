@@ -1,7 +1,7 @@
-Text Detection using OpenCV and EasyOCR
+Text Detection using OpenCV and EasyOCR:
 This project demonstrates text detection in images using the EasyOCR library in Python. EasyOCR is an efficient and accurate optical character recognition (OCR) tool that supports multiple languages and works well for various text detection tasks.
 
-Requirements
+Requirements:
 Python 3.x
 OpenCV (cv2)
 EasyOCR
@@ -9,7 +9,7 @@ Matplotlib
 NumPy
 
 
-Usage
+Usage:
 Clone the repository or download the script.
 Ensure you have an image containing text for detection.
 Update the image_path variable in the script to point to your image file.
